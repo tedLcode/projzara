@@ -38,10 +38,13 @@ hr{
     font-weight: bolder;
 }
 h1{
-  font-family: "Pacifico", cursive;
-  color: chocolate;
-  font-weight: 300px;
-  font-size: 50px;
+   font-family: "Pacifico", cursive;
+  
+   color: chocolate;
+   -webkit-text-stroke-color: black;
+   -webkit-text-stroke-width: 2px;
+   font-weight: 300px;
+   font-size: 50px;
 }
 h3{
     font-family: "Pacifico", cursive;
