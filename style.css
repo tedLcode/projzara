@@ -1,0 +1,107 @@
+body{
+     /* margin-top: 0px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 0px;
+border-top-width: 0px; */
+margin: 0;
+
+
+}
+.align{
+    text-align: center;
+    
+}
+
+.div1{
+    background-image: url(pngwing.png);
+    background-size: 20%;
+
+    background-color:#ebc59d ;
+}
+/*  */
+
+hr{
+
+    border-style:  none;
+    border-top-style: dotted;
+    border-color: rgba(119, 90, 41, 0.938);
+    border-width: 5px;
+    width: 75px;
+    position: relative;
+    top: 10px;
+}
+
+.heading{
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h1{
+  font-family: "Pacifico", cursive;
+  font-weight: 300px;
+  font-size: 50px;
+}
+h3{
+    font-family: "Pacifico", cursive;
+    font-size: 30px;
+}
+.para{
+    background-image: url(White_background.png);
+    opacity: 0.7;
+}
+.hob{
+    display: inline-block;
+    font-size: 30px;
+    position: relative;
+    left: 450px;
+    width: 150px;
+}
+table{
+    margin-left: auto;
+  margin-right: auto;
+}
+.formalign{
+    text-align: center;
+    margin-left: auto;
+  margin-right: auto;
+
+}
+.div2{
+    position: relative;
+    top: 20px;
+}
+/*h1{
+    font-family: cursive;
+}*/
+
+
+
+/* h3{
+    font-family: cursive;
+} */
+/* ul{
+    font-family: cursive;
+}
+strong{
+    font-family: cursive;
+} these are the things before used for styling now i learn about selectors and id
+*/    
+
+/* .div2{
+    position: relative;
+    left: 570px;
+}
+
+.div3{
+    position: relative;
+    left: 630px;
+}
+.div4{
+    position: relative;
+    left: 490px;
+}
+.div5{
+    position: relative;
+    left:20px;
+} */
