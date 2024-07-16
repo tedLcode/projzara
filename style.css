@@ -36,15 +36,16 @@ hr{
     font-family: cursive;
     font-style: oblique;
     font-weight: bolder;
+    font-size: 1.25rem;
 }
 h1{
-   font-family: "Pacifico", cursive;
+  font-family: "Pacifico", cursive;
   
-   color: chocolate;
-   -webkit-text-stroke-color: black;
-   -webkit-text-stroke-width: 2px;
-   font-weight: 300px;
-   font-size: 50px;
+  color: chocolate;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 2px;
+  font-weight: 300px;
+  font-size: 90px;
 }
 h3{
     font-family: "Pacifico", cursive;
@@ -58,7 +59,7 @@ h3{
     display: inline-block;
     font-size: 30px;
     position: relative;
-    left: 450px;
+    left: 380px;
     width: 150px;
 }
 table{
@@ -68,13 +69,69 @@ table{
 .formalign{
     text-align: center;
     margin-left: auto;
-  margin-right: auto;
+    margin-right: auto;
+    margin-top: 25px;
+   
+  
 
 }
 .div2{
     position: relative;
     top: 20px;
+
 }
+.s-widhth{
+    margin-top: 40px;
+    width: 50%;
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.vomit-img{
+    width: 200px;
+    float: left;
+    margin-right: 50px;
+    
+
+}
+.poop-img{
+    width: 250px;
+    float: left;
+    
+}
+.vomit-adv{
+    text-align: left;
+    margin-left: 30px;
+   
+    margin-bottom: 40px;
+    
+}
+.poop-adv{
+    text-align:left;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    
+    
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #050005;
+    font-size: 16px;
+    background: #ffc65c;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #d6b980;
+    text-decoration: none;
+  }
 /*h1{
     font-family: cursive;
 }*/
